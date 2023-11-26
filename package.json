@@ -1,0 +1,12 @@
+{
+    "name": "pulumi-tests",
+    "main": "index.ts",
+    "devDependencies": {
+        "@types/mocha": "^10.0.6",
+        "@types/node": "^16"
+    },
+    "dependencies": {
+        "@checkly/pulumi": "^1.1.4",
+        "@pulumi/pulumi": "^3.0.0"
+    }
+}
